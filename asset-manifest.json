@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guess-number-react/static/css/main.dd936a93.css",
+    "main.js": "/guess-number-react/static/js/main.46a41ab2.js",
+    "static/js/787.4ba3cdb1.chunk.js": "/guess-number-react/static/js/787.4ba3cdb1.chunk.js",
+    "index.html": "/guess-number-react/index.html",
+    "main.dd936a93.css.map": "/guess-number-react/static/css/main.dd936a93.css.map",
+    "main.46a41ab2.js.map": "/guess-number-react/static/js/main.46a41ab2.js.map",
+    "787.4ba3cdb1.chunk.js.map": "/guess-number-react/static/js/787.4ba3cdb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd936a93.css",
+    "static/js/main.46a41ab2.js"
+  ]
+}
